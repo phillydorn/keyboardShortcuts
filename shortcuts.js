@@ -5,7 +5,7 @@
 // create custom search
 // use as calculator, press enter to copy result
 
-// gmail
+// gmail comment
 // setup keyboard shortcuts
 // setup priority inbox
 // ? : show keyboard shortcuts
